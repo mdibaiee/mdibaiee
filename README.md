@@ -10,6 +10,7 @@ I am mainly interested in these areas:
 - Developer tools: making life of engineers easier
 
 I sometimes write about random stuff on my blog: [mahdi.blog](https://mahdi.blog/)
+
 You can reach me on [mdibaiee@pm.me](mailto:mdibaiee@pm.me). I'm happy to collaborate on open-source projects or initiatives!
 
 <!--
