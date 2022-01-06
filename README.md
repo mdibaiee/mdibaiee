@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I started my programming journey first by becoming an open-source contributor of Firefox, meanwhile contributing to various projects on GitHub as well. I advocate for open-source software at my job and I hope to be able to do open-source work full-time, working on projects ranging from operating systems and low-level components all the way up to user interfaces and web applications.
+I started my programming journey first by becoming an [open-source contributor of Firefox](https://bugzilla.mozilla.org/user_profile?user_id=492313), meanwhile contributing to various projects on GitHub as well. I advocate for open-source software at my job and I hope to be able to do open-source work full-time, working on projects ranging from operating systems and low-level components all the way up to user interfaces and web applications.
 
 I am mainly interested in these areas:
 - Low-level programming with ASM, C, Rust and similar languages
