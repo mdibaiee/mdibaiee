@@ -9,10 +9,7 @@ I am mainly interested in these areas:
 - Functional programming (mainly Haskell) and Category Theory
 - Developer tools: making life of engineers easier
 
-I sometimes write about random stuff on my blog: [mahdi.blog](https://mahdi.blog/)
-
-You can reach me on [mdibaiee@pm.me](mailto:mdibaiee@pm.me). I'm happy to collaborate on open-source projects or initiatives!
-
+You can reach me on [mdibaiee@pm.me](mailto:mdibaiee@pm.me)
 <!--
 **mdibaiee/mdibaiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
